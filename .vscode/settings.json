@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./market_data_processor/Cargo.toml",
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
